@@ -1,3 +1,4 @@
+# Perubahan
 dataInteger = 100
 print(dataInteger)
 
